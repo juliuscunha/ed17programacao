@@ -21,10 +21,12 @@ Para executar a aplicação, siga os passos abaixo:
 3. Execute o seguinte comando: $ sudo python3 program1.py
 4. Indique uma opção: 1 Esta opção irá iniciar um scan na rede.
 5. Indique o endereço IP: [Exmplo: 10.0.5.0]
-6. Indique o nome do ficheiro de saída: [Exmplo: vulscan.xml]
-7. Indique o nome da base de dados: [Exmplo: testfinal.db]
+6. Pressione ENTER para criar o ficheiro de saída: [vulscan.xml]
+7. Pressione ENTER para criar o ficheiro da base de dados: [testfinal.db]
 8. Aguarde a executacao do comando.
-9. Finalmente selecionar opção 2 mostrar Resultados como lista de dispositivos, lista de portas e vulnerabilidades encontradas.
+9. Finalmente indique a opção 2
+10. Pressione ENTER para criar o relatório: [resultados.html]
+11. Abre o ficheiro resultados.html para visualizar o relatório com a lista de dispositivos, lista de portas e vulnerabilidades encontradas.
 
 // Dependências:
 Certifique-se de ter as seguintes dependências instaladas:
